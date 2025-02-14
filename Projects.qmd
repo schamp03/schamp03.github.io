@@ -4,6 +4,16 @@ author: Sierra Champion
 format: html
 ---
 
+# Quarto Website
+
+A professional website used to communicate my experience and scientific ability in an interactive way.
+
+**Key Concepts**:
+
+-   GitHub Workflow- I learned how to fork, clone, commit, push, and submit pull requests.
+
+-   I structured a website, added images, fixed YAML formatting errors, and ensured proper linking between pages.
+
 # **Climate Justice Board Game**
 
 A project exploring climate justice through an interactive **board game** format.
@@ -38,7 +48,7 @@ Climate Justice: The Path to Sustainability and Equity is more than a class proj
 
 Reflecting on this project, we are hopeful about the potential for justice-centered climate action. If a simple board game encourages people to think more critically about climate justice and discuss potential solutions, it could inspire action. This project has also shown us that education and advocacy do not have to look the same for everyone; sometimes, it can look like sitting around a table, rolling dice, and imagining a better world.
 
----
+------------------------------------------------------------------------
 
 # **Sea Turtle Conservation Research (Costa Rica)**
 
@@ -54,4 +64,4 @@ A research trip focused on the conservation efforts for endangered sea turtles
 
 ![Field Work During Mass Nesting Event](images/Work_Turt.JPEG){fig-align="right" width="576"}
 
----
+------------------------------------------------------------------------
