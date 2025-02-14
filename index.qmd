@@ -1,11 +1,26 @@
 ---
-title: "schamp03.github.io"
+title: "Welcome to My Portfolio"
+author: "Sierra Champion"
+date: Spring 2025
+format: html
+about:
+  template: broadside
+  links: 
+    - text: Email
+      href: 'mailto:schamp03@colostate.edu'
+    - text: LinkedIn
+      href: //www.linkedin.com/in/sierra-champion     
 ---
 
-This is a Quarto website.
+![](images/me.jpg){fig-align="center" width="423"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is my personal website, where I share my academic journey, projects, and professional experience. Explore the sections below:
 
-```{r}
-1 + 1
+[**About Me**](about.qmd) - Learn more about my background and interests.
+
+[**Resume**](Resume.qmd) - View my resume and work experience.
+
+[**CSU Projects**](Projects.qmd) - See my academic projects at Colorado State University.
+
+```         
 ```

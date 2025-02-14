@@ -1,21 +1,23 @@
 project:
   type: website
-  output-dir: docs
-  
-
+  output-dir: _site
 website:
   title: "schamp03.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: about.qmd
+        text: About Me
+      - href: Resume.qmd
+        text: Resume
+      - href: Projects.qmd
+        text: CSU Projects
+    page-footer: 
+      center: "2025 Sierra Champion | Built with Quarto"
 format:
   html:
     theme: cosmo
-    css: styles.css
+    page-layout: full
     toc: true
-
 editor: visual
-

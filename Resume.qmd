@@ -1,0 +1,7 @@
+---
+title: "Resume"
+author: "Sierra Champion"
+format: html
+---
+
+![Resume](images/Resume.jpg){fig-align="center"}

@@ -1,9 +1,22 @@
 ---
 title: "About"
+author: "Sierra Champion"
+format: html
 ---
 
-About this site
+![](images/Ocean_turt.png){fig-align="center" width="179"}
 
-```{r}
-1 + 1
+Hello! I am a senior at **Colorado State University** pursuing a degree in **Ecosystem Science and Sustainability**. I am interested in pursuing **environmental law** especially as it pertains to **species conservation.**
+
+I have experience:
+
+-   Researching sea turtle conservation in Costa Rica
+
+-   Working on environmental public outreach
+
+-   Working as a barista at Dazbog Coffee
+
+Outside of school and work, I enjoy reading and spending time with friends. Reading is an important way for me to expand my knowledge and learn new concepts outside of my field of study.
+
+```{}
 ```
